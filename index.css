@@ -51,6 +51,7 @@ body {
 a {
     color: #AE445A;
     margin: 0 2vh 2vh 2vh;
+    text-decoration: none;
 }
 
 h1 {
